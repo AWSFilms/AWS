@@ -1,0 +1,20 @@
+{
+    "TenantName": {
+      "S": "aralme"
+    },
+    "TenantRecord": {
+      "S": "ARALMEDEV"
+    },
+    "CreateDate": {
+      "S": "2021-10-14T14:52:00"
+    },
+    "MerchantAPIKey": {
+      "S": ""
+    },
+    "Timeout": {
+      "N": "0"
+    },
+    "Domain": {
+      "S": ""
+    }
+  }

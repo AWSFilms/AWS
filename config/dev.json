@@ -1,0 +1,20 @@
+{
+    "TenantId": {
+      "S": "aralme"
+    },
+    "MerchantId": {
+      "S": "TESTAPOLLOXIDEV"
+    },
+    "CreateDate": {
+      "S": "2021-09-20T09:00:00.100Z"
+    },
+    "MerchantAPIKey": {
+      "S": "DPaaS-Mastercard-Adapter-AralMe-dev.TESTAPOLLOXIDEV.key"
+    },
+    "Timeout": {
+      "N": "60"
+    },
+    "Domain": {
+      "S": "test-gateway.mastercard.com"
+    }
+  }

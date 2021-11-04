@@ -1,0 +1,1 @@
+{"version":3,"file":"TenantArray.js","sourceRoot":"","sources":["../../../dynamodb/src/TenantArray.ts"],"names":[],"mappings":";;;AAAA,IAAM,MAAM,GAAG,OAAO,CAAC,kCAAkC,CAAC,CAAC;AAE3D,SAAgB,MAAM;IAClB,IAAI,YAAY,GAAa,MAAM,CAAC;IACpC,YAAY,GAAG,IAAI,CAAC,KAAK,CAAC,MAAM,CAAC,CAAC;AACtC,CAAC;AAHD,wBAGC"}

@@ -1,0 +1,10 @@
+[
+    {
+        "tenantId": "pulse-aralme",
+        "MerchantId": "TESTAPOLLOXIDEV",
+        "CreateDate": "2021-09-20T09:00:00.100Z",
+        "MerchantAPIKey": "DPaaS-Mastercard-Adapter-AralMe-dev.TESTAPOLLOXIDEV.key",
+        "TimeOut": 60,
+        "Domain": "test-gateway.mastercard.com"
+    }
+  ]
